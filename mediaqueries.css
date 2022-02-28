@@ -1,0 +1,11 @@
+@media all and (max-width:1024px){
+    
+    .feat{
+        flex-wrap: wrap;
+    }
+
+    .feat_column{
+        width: 100%;
+        
+    }
+}
